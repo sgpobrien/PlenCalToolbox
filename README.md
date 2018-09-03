@@ -12,8 +12,8 @@ Dataset R-B : https://cloudstor.aarnet.edu.au/plus/s/gPh38jHOfkH3M2X
 Dataset R-C : https://cloudstor.aarnet.edu.au/plus/s/lcBuDAxuQiGZ55j
 
 To test the code with these datasets, 
-1. Create a subdirectory of the `data' directory called `Dataset_R_X', where X is A B or C depending on which dataset was downloaded.
+1. Create a subdirectory of the 'data' directory called 'Dataset_R_X', where X is A B or C depending on which dataset was downloaded.
 2. Place all the raw images of the corresponding dataset into this directory.
-3. Run the script files calibration_R_X.m , where X is A B or C to run through the code. 
+3. Run the script file 'calibration_R_X.m' , where X is A B or C to run through the code. 
 
 The entire process may take up to 30 minutes. Percentage counters have been added into the code and these progress counters will be printed to the console. The error results are printed at the very end of the calibration process. 
