@@ -16,4 +16,6 @@ To test the code with these datasets,
 2. Place all the raw images of the corresponding dataset into this directory.
 3. Run the script file 'calibration_R_X.m' , where X is A B or C to run through the code. 
 
+The Lytro dataset used in the paper was made by Donald Dansereau, and links to these datasets are available on this page: https://dgd.vision/Tools/LFToolbox/. The raw files will need to be converted to a standard image format such as .jpg or .png first. 
+
 The entire process may take up to 30 minutes. Percentage counters have been added into the code and these progress counters will be printed to the console. The error results are printed at the very end of the calibration process. 
